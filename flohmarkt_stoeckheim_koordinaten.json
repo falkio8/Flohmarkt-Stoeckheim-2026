@@ -1,0 +1,692 @@
+{
+  "Adlerweg 10, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2175704,
+    "lon": 10.5133085,
+    "approx": false
+  },
+  "Adlerweg 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2182099,
+    "lon": 10.5134776,
+    "approx": false
+  },
+  "Agnes-Miegel-Straße 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2157015,
+    "lon": 10.5266113,
+    "approx": false
+  },
+  "Albertstraße 17, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2119326,
+    "lon": 10.5239409,
+    "approx": false
+  },
+  "Albertstraße 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2095128,
+    "lon": 10.5253573,
+    "approx": false
+  },
+  "Albertstraße 18, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2110938,
+    "lon": 10.5248009,
+    "approx": false
+  },
+  "Albine-Nagel-Straße 3, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2192895,
+    "lon": 10.5176071,
+    "approx": false
+  },
+  "Alter Weg 20, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2066693,
+    "lon": 10.5219305,
+    "approx": false
+  },
+  "Alter Weg 24, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2067158,
+    "lon": 10.5223351,
+    "approx": false
+  },
+  "Alter Weg 7, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2092325,
+    "lon": 10.5224902,
+    "approx": false
+  },
+  "Am Apfelgarten 37, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2157166,
+    "lon": 10.5158259,
+    "approx": false
+  },
+  "Am Butterbusch 17, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2113737,
+    "lon": 10.5266421,
+    "approx": false
+  },
+  "Am Butterbusch 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2107156,
+    "lon": 10.5267415,
+    "approx": false
+  },
+  "Am Quälenberg 20, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2180465,
+    "lon": 10.5121685,
+    "approx": false
+  },
+  "Am Quälenberg 22, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2181905,
+    "lon": 10.5119867,
+    "approx": false
+  },
+  "Am Quälenberg 15, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2177678,
+    "lon": 10.5119921,
+    "approx": false
+  },
+  "Am Schiffhorn 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2055453,
+    "lon": 10.5215861,
+    "approx": false
+  },
+  "Am Winkel 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2136956,
+    "lon": 10.5184278,
+    "approx": false
+  },
+  "Am Winkel 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2141943,
+    "lon": 10.5187147,
+    "approx": false
+  },
+  "Am Winkel 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.214479,
+    "lon": 10.519339,
+    "approx": false
+  },
+  "Am Winkel 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2143976,
+    "lon": 10.5191575,
+    "approx": false
+  },
+  "Am Winkel 13, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2140226,
+    "lon": 10.5180897,
+    "approx": false
+  },
+  "An der Trift 12, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2090196,
+    "lon": 10.5266814,
+    "approx": false
+  },
+  "An der Trift 12a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2087377,
+    "lon": 10.5267646,
+    "approx": false
+  },
+  "An der Trift 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2088833,
+    "lon": 10.5259615,
+    "approx": false
+  },
+  "An der Trift 14, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2090745,
+    "lon": 10.5269288,
+    "approx": false
+  },
+  "An der Trift 9, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2092686,
+    "lon": 10.5264372,
+    "approx": false
+  },
+  "Bauerlegden 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.205452,
+    "lon": 10.5243506,
+    "approx": false
+  },
+  "Bauerlegden 8a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2051386,
+    "lon": 10.523952,
+    "approx": false
+  },
+  "Berghey 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2032682,
+    "lon": 10.5244458,
+    "approx": false
+  },
+  "Bertha-von-Suttner-Straße 7, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2209731,
+    "lon": 10.5190537,
+    "approx": false
+  },
+  "Bertha-von-Suttner-Straße 51, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2209606,
+    "lon": 10.5166081,
+    "approx": false
+  },
+  "Brauerskamp 25, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2122841,
+    "lon": 10.5212916,
+    "approx": false
+  },
+  "Brauerskamp 47, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2118945,
+    "lon": 10.5210712,
+    "approx": false
+  },
+  "Brauerskamp 32, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2127697,
+    "lon": 10.5204472,
+    "approx": false
+  },
+  "Breites Bleek 12, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2227772,
+    "lon": 10.5213974,
+    "approx": false
+  },
+  "Breites Bleek 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2225796,
+    "lon": 10.520642,
+    "approx": false
+  },
+  "Bruchweg 1C, 38124 Braunschweig, Deutschland": {
+    "lat": 52.21211,
+    "lon": 10.5183098,
+    "approx": false
+  },
+  "Bruchweg 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2117931,
+    "lon": 10.5178798,
+    "approx": false
+  },
+  "Cranzweg 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.219372,
+    "lon": 10.520433,
+    "approx": false
+  },
+  "Else-Hoppe-Straße 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2176771,
+    "lon": 10.5195864,
+    "approx": false
+  },
+  "Else-Hoppe-Straße 1, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2170773,
+    "lon": 10.5197563,
+    "approx": false
+  },
+  "Else-Hoppe-Straße 35, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2180821,
+    "lon": 10.5181263,
+    "approx": false
+  },
+  "Emmy-Scheyer-Straße 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2195399,
+    "lon": 10.5163592,
+    "approx": false
+  },
+  "Emmy-Scheyer-Straße 7, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2195969,
+    "lon": 10.5163574,
+    "approx": false
+  },
+  "Gebrüder-Grimm-Straße 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2148324,
+    "lon": 10.5235238,
+    "approx": false
+  },
+  "Gebrüder-Grimm-Straße 16, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2152408,
+    "lon": 10.5250429,
+    "approx": false
+  },
+  "Gebrüder-Grimm-Straße 3, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2144735,
+    "lon": 10.5227398,
+    "approx": false
+  },
+  "Gebrüder-Grimm-Straße 19, 38124 Braunschweig, Deutschland": {
+    "lat": 52.215503,
+    "lon": 10.5248859,
+    "approx": false
+  },
+  "Gebrüder-Grimm-Straße 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2147471,
+    "lon": 10.5243028,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 21, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2140412,
+    "lon": 10.5252857,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 95, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2148533,
+    "lon": 10.5279078,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 75, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2147905,
+    "lon": 10.5268531,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 23, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2140921,
+    "lon": 10.5252482,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 62, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2143738,
+    "lon": 10.5274596,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 47, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2144274,
+    "lon": 10.5260465,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 81, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2147708,
+    "lon": 10.5273648,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 29, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2142449,
+    "lon": 10.5251354,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 54, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2142636,
+    "lon": 10.5270493,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 22, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2138394,
+    "lon": 10.5253444,
+    "approx": false
+  },
+  "Hans-Sachs-Straße 25, 38124 Braunschweig, Deutschland": {
+    "lat": 52.214143,
+    "lon": 10.5252106,
+    "approx": false
+  },
+  "Helene-Engelbrecht-Straße 21, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2202511,
+    "lon": 10.5186815,
+    "approx": false
+  },
+  "Helene-Engelbrecht-Straße 23, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2202688,
+    "lon": 10.5190619,
+    "approx": false
+  },
+  "Helene-Engelbrecht-Straße 24, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2202504,
+    "lon": 10.518188,
+    "approx": false
+  },
+  "Herbstkampweg 2A, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2067242,
+    "lon": 10.5263494,
+    "approx": false
+  },
+  "Herbstkampweg 18, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2074592,
+    "lon": 10.5295449,
+    "approx": false
+  },
+  "Hermann-Löns-Straße 6, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2154898,
+    "lon": 10.5242013,
+    "approx": false
+  },
+  "Hermann-Löns-Straße 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.215349,
+    "lon": 10.5242975,
+    "approx": false
+  },
+  "Hermann-Löns-Straße 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.215276,
+    "lon": 10.5243491,
+    "approx": false
+  },
+  "Hohe Wiese 44, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2112295,
+    "lon": 10.5275037,
+    "approx": false
+  },
+  "Hohe Wiese 71, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2111802,
+    "lon": 10.5282553,
+    "approx": false
+  },
+  "Hohe Wiese 92, 38124 Braunschweig, Deutschland": {
+    "lat": 52.210128,
+    "lon": 10.5281849,
+    "approx": false
+  },
+  "Hohes Feld 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2111297,
+    "lon": 10.5237654,
+    "approx": false
+  },
+  "Hohes Feld 7, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2106862,
+    "lon": 10.5225115,
+    "approx": false
+  },
+  "Hölderlinstraße 21, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2172182,
+    "lon": 10.5245145,
+    "approx": false
+  },
+  "Hölderlinstraße 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2172465,
+    "lon": 10.5217941,
+    "approx": false
+  },
+  "Hopfenkamp 6, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2132203,
+    "lon": 10.5193477,
+    "approx": false
+  },
+  "Hopfenkamp 14a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2136931,
+    "lon": 10.5201917,
+    "approx": false
+  },
+  "Hopfenkamp 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2135107,
+    "lon": 10.5191108,
+    "approx": false
+  },
+  "Hopfenkamp 18, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2136054,
+    "lon": 10.5207607,
+    "approx": false
+  },
+  "Kleine Wüstemark 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2031887,
+    "lon": 10.5208189,
+    "approx": false
+  },
+  "Kleiststraße 11, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2184019,
+    "lon": 10.5219938,
+    "approx": false
+  },
+  "Kleiststraße 23, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2184467,
+    "lon": 10.5230529,
+    "approx": false
+  },
+  "Kleiststraße 31, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2184559,
+    "lon": 10.5236378,
+    "approx": false
+  },
+  "Kleiststraße 42, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2181854,
+    "lon": 10.524479,
+    "approx": false
+  },
+  "Kleiststraße , 38124 Braunschweig, Deutschland": {
+    "lat": 52.2183001,
+    "lon": 10.5226146,
+    "approx": false
+  },
+  "Krögerstraße 20, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2150049,
+    "lon": 10.5216364,
+    "approx": false
+  },
+  "Krögerstraße 26, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2152928,
+    "lon": 10.521511,
+    "approx": false
+  },
+  "Leipziger Straße 218a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2156799,
+    "lon": 10.5203331,
+    "approx": false
+  },
+  "Leipziger Straße 230, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2093338,
+    "lon": 10.5237959,
+    "approx": false
+  },
+  "Leipziger Straße 217, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2108357,
+    "lon": 10.5237607,
+    "approx": false
+  },
+  "Leipziger Straße 255, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2062548,
+    "lon": 10.5259865,
+    "approx": false
+  },
+  "Leipziger Straße 249, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2067591,
+    "lon": 10.5255257,
+    "approx": false
+  },
+  "Milanstraße 16, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2192601,
+    "lon": 10.5154745,
+    "approx": false
+  },
+  "Milanstraße 31, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2188882,
+    "lon": 10.5141735,
+    "approx": false
+  },
+  "Milanstraße 8a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2185551,
+    "lon": 10.5148381,
+    "approx": false
+  },
+  "Milanstraße 22, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2191844,
+    "lon": 10.5159649,
+    "approx": false
+  },
+  "Milanstraße 28, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2191262,
+    "lon": 10.5163396,
+    "approx": false
+  },
+  "Milanstraße 20, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2192129,
+    "lon": 10.5157776,
+    "approx": false
+  },
+  "Rauschenweg 6, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2204075,
+    "lon": 10.5204044,
+    "approx": false
+  },
+  "Ricarda-Huch-Straße 10, 38124 Braunschweig, Deutschland": {
+    "lat": 52.215205,
+    "lon": 10.5226254,
+    "approx": false
+  },
+  "Ricarda-Huch-Straße 4, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2149017,
+    "lon": 10.5228416,
+    "approx": false
+  },
+  "Ricarda-Huch-Straße 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2150803,
+    "lon": 10.5227074,
+    "approx": false
+  },
+  "Ricarda-Huch-Straße 3, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2148954,
+    "lon": 10.5224145,
+    "approx": false
+  },
+  "Romintenstraße , 38124 Braunschweig, Deutschland": {
+    "lat": 52.2194363,
+    "lon": 10.5229141,
+    "approx": false
+  },
+  "Romintenstraße 23, 38124 Braunschweig, Deutschland": {
+    "lat": 52.219927,
+    "lon": 10.523973,
+    "approx": false
+  },
+  "Rosina-de-Gasc-Weg 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2196705,
+    "lon": 10.5157281,
+    "approx": false
+  },
+  "Rüninger Weg 19a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2138254,
+    "lon": 10.5172739,
+    "approx": false
+  },
+  "Rüninger Weg 9, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2117437,
+    "lon": 10.5196377,
+    "approx": false
+  },
+  "Rüninger Weg 24a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2135917,
+    "lon": 10.5182399,
+    "approx": false
+  },
+  "Rüninger Weg 48a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2165396,
+    "lon": 10.5126809,
+    "approx": false
+  },
+  "Rüninger Weg 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2111718,
+    "lon": 10.5210807,
+    "approx": false
+  },
+  "Rüninger Weg 15, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2126594,
+    "lon": 10.5186636,
+    "approx": false
+  },
+  "Schiefer Berg 70, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2036376,
+    "lon": 10.5200227,
+    "approx": false
+  },
+  "Schiefer Berg 97, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2045724,
+    "lon": 10.5224348,
+    "approx": false
+  },
+  "Schiefer Berg 91, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2044521,
+    "lon": 10.5215668,
+    "approx": false
+  },
+  "Schiefer Berg 86, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2039658,
+    "lon": 10.5207525,
+    "approx": false
+  },
+  "Schiefer Berg 52, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2025045,
+    "lon": 10.5209232,
+    "approx": false
+  },
+  "Schiefer Berg 67, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2029307,
+    "lon": 10.5197701,
+    "approx": false
+  },
+  "Schiefer Berg 41, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2022954,
+    "lon": 10.5228035,
+    "approx": false
+  },
+  "Schwedendamm 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.202939,
+    "lon": 10.5222929,
+    "approx": false
+  },
+  "Schwedendamm 8, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2031389,
+    "lon": 10.5226845,
+    "approx": false
+  },
+  "Schwedendamm 30, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2027121,
+    "lon": 10.5213468,
+    "approx": false
+  },
+  "Schwedendamm 26, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2031314,
+    "lon": 10.5212871,
+    "approx": false
+  },
+  "Siedlerstraße 24, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2158524,
+    "lon": 10.5199299,
+    "approx": false
+  },
+  "Siedlerstraße 10, 38124 Braunschweig, Deutschland": {
+    "lat": 52.214747,
+    "lon": 10.518872,
+    "approx": false
+  },
+  "Siekgraben 23, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2180575,
+    "lon": 10.5168929,
+    "approx": false
+  },
+  "Siekgraben 42, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2169447,
+    "lon": 10.516489,
+    "approx": false
+  },
+  "Siekgraben 56, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2187721,
+    "lon": 10.5194758,
+    "approx": false
+  },
+  "Sperberweg 2, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2186395,
+    "lon": 10.5119978,
+    "approx": false
+  },
+  "Turmfalkenweg 5, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2197549,
+    "lon": 10.5117317,
+    "approx": false
+  },
+  "Waldblick 1a, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2058053,
+    "lon": 10.5243196,
+    "approx": false
+  },
+  "Wielandstraße 25, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2181874,
+    "lon": 10.5249985,
+    "approx": false
+  },
+  "Wielandstraße 17, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2177649,
+    "lon": 10.5249933,
+    "approx": false
+  },
+  "Wielandstraße 31, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2176995,
+    "lon": 10.5244117,
+    "approx": false
+  },
+  "Zum Lindenplatz 9, 38124 Braunschweig, Deutschland": {
+    "lat": 52.215149,
+    "lon": 10.5167497,
+    "approx": false
+  },
+  "Zur Siekwiese 6, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2151437,
+    "lon": 10.5179602,
+    "approx": false
+  },
+  "Zur Siekwiese 10, 38124 Braunschweig, Deutschland": {
+    "lat": 52.2154008,
+    "lon": 10.5186687,
+    "approx": false
+  }
+}
